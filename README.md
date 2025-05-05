@@ -35,12 +35,6 @@ Final capstone project for Meta’s Professional Certificate. Built a food order
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
