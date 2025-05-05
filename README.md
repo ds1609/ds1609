@@ -29,7 +29,7 @@ A live appointment booking app available on both Play Store and App Store. Built
 *React Native | Laravel*  
 Mobile app for a real estate platform. Developed entire mobile frontend, integrated with Laravel backend.
 
-#### [Little Lemon Restaurant](https://github.com/your-profile/little-lemon-app)  
+#### [Little Lemon Restaurant](https://github.com/ds1609/little-lemon)  
 *React Native | Meta Certification Project*  
 Final capstone project for Meta’s Professional Certificate. Built a food ordering experience with navigation, context API, and API simulation.
 
