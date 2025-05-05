@@ -37,7 +37,7 @@ Final capstone project for Meta’s Professional Certificate. Built a food order
 
 ### 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/divya-sahu-b48846153/)
 - 📧 divyafuture67@gmail.com
 
 ---
