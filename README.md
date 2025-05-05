@@ -15,17 +15,17 @@ Hi! I’m a passionate software developer with 4+ years of experience in buildin
 `PHP` `Laravel` `CodeIgniter` `MySQL` `Firebase`
 
 **Tools**  
-`Git` `GitHub` `VS Code` `Postman` `Appwrite` `Expo`
+`Git` `GitHub` `VS Code` `Postman` `Expo`
 
 ---
 
 ### 📱 Featured Projects
 
-#### [Appointment App](https://play.google.com/store/apps/details?id=your.app.id) | [App Store](https://apps.apple.com/app/your-app-id)  
+#### [Appointment App](https://play.google.com/store/apps/details?id=com.aolappointments) | [App Store](https://apps.apple.com/in/app/aol-appointment/id6471575294)  
 *React Native | CodeIgniter*  
-A live appointment booking app available on both Play Store and App Store. Built mobile app from scratch and integrated APIs, authentication, and notifications.
+A live appointment booking app available on both Play Store and App Store. Built mobile app from scratch and integrated APIs, authentication, and email & sms notifications.
 
-#### [Yashada Reality](https://play.google.com/store/apps/details?id=your.app.id)  
+#### [Yashada Reality](https://play.google.com/store/apps/details?id=com.yashadarealty)  
 *React Native | Laravel*  
 Mobile app for a real estate platform. Developed entire mobile frontend, integrated with Laravel backend.
 
@@ -44,6 +44,6 @@ Final capstone project for Meta’s Professional Certificate. Built a food order
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- 📧 divyafuture67@gmail.com
 
 ---
